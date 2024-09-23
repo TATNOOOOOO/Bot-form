@@ -9,6 +9,7 @@ form{
 .item{
   overflow: hidden;
   margin-bottom: 20px;
+  margin-left: 65px;
 }
 .label{
   float: left;
